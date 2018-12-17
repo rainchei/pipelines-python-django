@@ -1,3 +1,6 @@
+[![Build Status](https://rainchei.visualstudio.com/pipelines-python-django/_apis/build/status/pipelines-python-django-CI?branchName=master)](https://rainchei.visualstudio.com/pipelines-python-django/_build/latest?definitionId=1?branchName=master)
+
+
 # Sample Python app for Azure Pipelines docs
 
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
